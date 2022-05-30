@@ -2,10 +2,10 @@
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
 <p align="center"> 
-  <img align="center" src="https://i.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.webp" />
+  <img src="https://komarev.com/ghpvc/?username=aditya4478&label=Profile%20views&color=0e75b6&style=flat" alt="aditya4478" /> 
 </p>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=aditya4478&label=Profile%20views&color=0e75b6&style=flat" alt="aditya4478" /> 
+    <img align="center" src="https://i.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.webp" />
 </p>
 
 - 🔭 I’m currently working on [GSoC Project 2022](https://summerofcode.withgoogle.com/programs/2022/projects/WC8jK0Bs)
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **adityabathani.4478@gmail.com**
 
-- 📄 Know about my experiences [My-Resume](https://summerofcode.withgoogle.com/programs/2022/projects/WC8jK0Bs)
+- 📄 Know about my experiences [My-Resume](https://drive.google.com/file/d/1Xskcuep8DT3fhY-5dEp32gUCC_gETb4k/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
