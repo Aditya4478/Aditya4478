@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **adityabathani.4478@gmail.com**
 
-- 📄 Know about my experiences [My-Resume](https://drive.google.com/file/d/1Xskcuep8DT3fhY-5dEp32gUCC_gETb4k/view?usp=sharing)
+- 📄 Know about my experiences [My-Resume](https://drive.google.com/file/d/1Xu_dPn0K_JiOlay6Pw20Hj9tPwBjpIza/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
