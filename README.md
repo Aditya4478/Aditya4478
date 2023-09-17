@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Bathani</h1>
-<h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
+<h3 align="center">Passionate for innovation, A boy trying to figure-out each & every stuff of Internet!!</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=aditya4478&label=Profile%20views&color=0e75b6&style=flat" alt="aditya4478" /> 
@@ -8,9 +8,9 @@
     <img align="center" src="https://i.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.webp" />
 </p>
 
-- 🔭 I’m currently working on [GSoC Project 2022](https://summerofcode.withgoogle.com/programs/2022/projects/WC8jK0Bs)
+- 🔭 I’m currently mentoring on [GSoC Project 2023](https://summerofcode.withgoogle.com/archive/2023/projects/furG843S)
 
-- 🌱 I’m currently learning **Java-JavaScript**
+- 🌱 I’m currently learning Web Technologies **Angular-JavaScript**
 
 - 👯 I’m looking to collaborate on **HTML5 & CSS3**
 
@@ -18,7 +18,9 @@
 
 - 📫 How to reach me **adityabathani.4478@gmail.com**
 
-- 📄 Know about my experiences [My-Resume](https://drive.google.com/file/d/1Xu_dPn0K_JiOlay6Pw20Hj9tPwBjpIza/view?usp=sharing)
+- 🌳 Exlpore me on [LinkTree](linktr.ee/adityabathani) 
+
+- 📄 Know about my experiences [My-Resume](https://drive.google.com/file/d/1eK5mFie79hlcB3d4fXjZiTOllo09t2No/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
