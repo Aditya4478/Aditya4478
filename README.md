@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Bathani</h1>
-<h3 align="center">Passionate for innovation, A boy trying to figure-out each & every stuff of Internet!!</h3>
+<h3 align="center">Creating Solutions, Breaking Barriers, Building Bridges, Innovating World!!</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=aditya4478&label=Profile%20views&color=0e75b6&style=flat" alt="aditya4478" /> 
@@ -8,19 +8,19 @@
     <img align="center" src="https://i.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.webp" />
 </p>
 
-- 🔭 I’m currently mentoring on [GSoC Project 2023](https://summerofcode.withgoogle.com/archive/2023/projects/furG843S)
+- 🔭 I’m currently Organization Admin of [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/organizations/drupal-association)
 
-- 🌱 I’m currently learning Web Technologies **Angular-JavaScript**
+- 🌱 I’m currently learning **Angular-JavaScript** with a vision of being Ambitious Technical Product Manager
 
-- 👯 I’m looking to collaborate on **HTML5 & CSS3**
-
-- 🤝 I’m looking for help with **Web Development Projects**
+- 👯 I’m looking to collaborate on **Early Stage Products** for implementing my GO-TO-Market Plans and **User Growth** Strategies
+  
+- 🤝 I’m looking for help with **Monitoring the market and developing competitive analysis**
 
 - 📫 How to reach me **adityabathani.4478@gmail.com**
 
 - 🌳 Exlpore me on [LinkTree](linktr.ee/adityabathani) 
 
-- 📄 Know about my experiences [My-Resume](https://drive.google.com/file/d/1eK5mFie79hlcB3d4fXjZiTOllo09t2No/view?usp=sharing)
+- 📄 Know about my experiences [My-Resume](linktr.ee/adityabathani)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,4 +34,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya4478&show_icons=true&locale=en&layout=compact" alt="aditya4478" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya4478&" alt="aditya4478" /></p>
